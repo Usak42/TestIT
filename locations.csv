@@ -1,0 +1,5 @@
+locationKey;actionMessage;inputKey;locationName;targetLocationKey;messageName
+1;example;1;example;100;exmessage
+10;example;2;example;1;b
+11;example;3;example;1;ab
+1;example;2;examplius;2;heureka
