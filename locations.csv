@@ -1,4 +1,4 @@
-locationKey;actionMessage;inputKey;locationName;targetLocationKey;messageName
+;locationKey;actionMessage;inputKey;locationName;targetLocationKey;messageName
 1;example1;1;example;1;exmessage
 10;example2;11;example;1;b
 11;example3;3;example;1;ab
