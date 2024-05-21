@@ -1,5 +1,5 @@
 locationKey;actionMessage;inputKey;locationName;targetLocationKey;messageName
-1;example1;1;Smrdi ti z huby;1;vybordelne
+1;thisisactionMessage1;1;thisIsLocationName1;1;thisisMessageName1
 10;example2;11;example;1;b
 11;example3;3;example;1;ab
-1;example1.1;2;examplius;2;heureka
+1;thisisactionMessage2;2;thisIsLocationName2;2;thisisMessageName2
